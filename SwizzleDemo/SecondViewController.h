@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface SecondViewController : UIViewController
-@property (weak, nonatomic) IBOutlet UIButton *propertyButton;
+@property(weak, nonatomic) IBOutlet UIButton *propertyButton;
 
 
 

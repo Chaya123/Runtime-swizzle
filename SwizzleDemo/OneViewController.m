@@ -19,7 +19,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
     NSLog(@"OneViewController的viewDidLoad");
     self.view.backgroundColor = [UIColor redColor];
     [self.view addSubview:self.pushButton];

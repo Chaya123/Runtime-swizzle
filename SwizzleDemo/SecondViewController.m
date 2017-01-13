@@ -16,15 +16,15 @@
     float _height;
 }
 
-@property (weak, nonatomic) IBOutlet UIButton *ivarButton;
+@property(weak, nonatomic) IBOutlet UIButton *ivarButton;
 
 
-@property (nonatomic, strong) NSString *name;
-@property (nonatomic, strong) NSString *icon;
-@property (nonatomic, strong) NSString *thirdCode;
-@property (nonatomic, strong) NSString *schoolCode;
-@property (nonatomic, assign) BOOL isVip;
-@property (nonatomic, assign) double linkType;
+@property(nonatomic, strong) NSString *name;
+@property(nonatomic, strong) NSString *icon;
+@property(nonatomic, strong) NSString *thirdCode;
+@property(nonatomic, strong) NSString *schoolCode;
+@property(nonatomic, assign) BOOL isVip;
+@property(nonatomic, assign) double linkType;
 
 @end
 
